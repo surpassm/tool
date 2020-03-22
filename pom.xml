@@ -20,6 +20,8 @@
     </properties>
     <modules>
         <module>tool-core</module>
+        <module>tool-json</module>
+        <module>tool-algorithm</module>
     </modules>
     <dependencies>
         <!-- 全局单元测试 -->
