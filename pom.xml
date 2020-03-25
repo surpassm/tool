@@ -14,7 +14,7 @@
         <project.build.sourceEncoding>utf-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>utf-8</project.reporting.outputEncoding>
         <!-- versions -->
-        <compile.version>8</compile.version>
+        <java.version>8</java.version>
         <junit.version>4.13</junit.version>
         <lombok.version>1.18.12</lombok.version>
     </properties>
